@@ -1,0 +1,2 @@
+total_samples,train_samples,test_samples,num_features,categorical_features_count,numeric_features_count,target_variable
+24788,19830,4958,7,3,4,VAL
